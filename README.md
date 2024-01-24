@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheBernieA
 - 👀 I’m interested everything programmable
-- 🌱 I’m currently learning AngularJs
+- 🌱 Angular and React
 - 💞️ I’m looking to collaborate on your current project
 - 📫 How to reach me https://www.linkedin.com/in/theberniea/
 
