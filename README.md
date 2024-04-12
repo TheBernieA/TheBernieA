@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheBernieA
 - 👀 I’m interested everything programmable
-- 🌱 Angular and React
+- 🌱 Html, CSS, SCSS, Javascript, Typescript, Nodejs, Angular, Nestjs, React/Nextjs
 - 💞️ I’m looking to collaborate on your current project
 - 📫 How to reach me https://www.linkedin.com/in/theberniea/
 
