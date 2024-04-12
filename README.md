@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheBernieA
+- 👋 Hi, I’m Bernard
 - 👀 I’m interested everything programmable
 - 🌱 Html, CSS, SCSS, Javascript, Typescript, Nodejs, Angular, Nestjs, React/Nextjs
 - 💞️ I’m looking to collaborate on your current project
