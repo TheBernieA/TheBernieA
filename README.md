@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bernard
 - 👀 I’m interested everything programmable
-- 🌱 Html, CSS, SCSS, Javascript, Typescript, Nodejs, Angular, Nestjs, React/Nextjs
+- 🌱 Html, CSS, SCSS, Tailwind, Bootstrap, Javascript, Typescript, Nodejs, Angular, Nestjs, React/Nextjs, Postgres, PrismaORM
 - 💞️ I’m looking to collaborate on your current project
 - 📫 How to reach me https://www.linkedin.com/in/theberniea/
 
